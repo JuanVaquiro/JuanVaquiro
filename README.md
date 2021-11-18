@@ -1,16 +1,45 @@
-### Hi there 👋
+<p>
+  <img src="https://raw.githubusercontent.com/Rishit-dagli/Rishit-dagli/master/images/octocat-anime.gif">
+</p>
 
-<!--
-**JuanVaquiro/JuanVaquiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Juan Vaquiro
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/JDavidVaquiro)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/juan-vaquiro-442585165/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/david_vaquirox/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]()
+
 
 Here are some ideas to get you started:
+- 🏫 I'm currently studing in MisionTIC and IT management technology in the ITFIP
+- 🔭 I’m currently working on ... Not working
+- 🌱 I’m currently learning ... React and JavaScript
+- 👯 I’m looking to collaborate on ... Any of project
+- 🤔 I’m looking for help with ... Next.js
+- 💬 Ask me about ... What ever.... 😆
+- 😄 Nickname: kayzin, soFA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### Languages and Tools:
+<div display="flex">
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://blog.arsys.es/file/uploads/2017/04/React.jpg" style="height: 28px;">
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+</did>
+<br/>
+
+### Gaming:
+<div display="flex">
+  <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Valorant-%23000000.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEAGUE OF LEGENDS-%23000000.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
+</div>
+<br>
