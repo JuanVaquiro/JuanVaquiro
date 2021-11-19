@@ -27,11 +27,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/react%20-%230077B5.svg?&style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/graphql%20-%23E4405F.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb%20-%210077B5.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql%20-%230077B5.svg?&style=for-the-badge&logo=mysql&logoColor=white">
 </did>
 <br/>
 
