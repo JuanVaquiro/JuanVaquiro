@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Not working
 - 🌱 I’m currently learning ... React and JavaScript
 - 🤔 I’m looking for help with ... Next.js
-- 😄 Nickname: kayzin, soFA
+- 😄 Nickname: kayzin, sofadev
 
 <br/>
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div display="flex">
   <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Valorant-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEAGUE OF LEGENDS-%23000000.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Valorant-%23000000.svg?&style=for-the-badge&logo=Valorant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/league%20of%20legends-%23000000.svg?&style=for-the-badge&logo=LoL&logoColor=white"/>
 </div>
 <br>
