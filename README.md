@@ -9,9 +9,6 @@
 <a href="https://www.linkedin.com/in/juan-vaquiro-442585165/" target="_blank">
   <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/david_vaquirox/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href="https://juanvaquiro.github.io/" target="_blank">
   <img Target="_blank" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">
 </a>
