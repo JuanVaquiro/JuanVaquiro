@@ -30,7 +30,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/graphql%20-%23E4405F.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma%20-%23000111.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb%20-%210077B5.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/mysql%20-%230077B5.svg?&style=for-the-badge&logo=mysql&logoColor=white">
 </did>
